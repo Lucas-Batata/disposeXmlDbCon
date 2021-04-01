@@ -60,7 +60,7 @@ namespace testeDisposable
             XmlElement element = xmlDocument.CreateElement("Elemento");
             xmlDocument.AppendChild(element);
 
-            element.AppendChild(xmlDocument.CreateElement("elemento1")).InnerText = "elemento11";
+            element.AppendChild(xmlDocument.CreateElement("Configuração")).InnerText = "3040";
             element.AppendChild(xmlDocument.CreateElement("status")).InnerText = "0";
 
 
