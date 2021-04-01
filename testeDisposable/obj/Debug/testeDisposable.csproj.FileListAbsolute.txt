@@ -1,0 +1,11 @@
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\testeDisposable.exe.config
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\testeDisposable.exe
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\testeDisposable.pdb
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\obj\Debug\testeDisposable.csproj.CoreCompileInputs.cache
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\obj\Debug\testeDisposable.exe
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\obj\Debug\testeDisposable.pdb
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\lucas.batata\source\repos\testeDisposable\testeDisposable\obj\Debug\testeDisposable.csproj.CopyComplete
